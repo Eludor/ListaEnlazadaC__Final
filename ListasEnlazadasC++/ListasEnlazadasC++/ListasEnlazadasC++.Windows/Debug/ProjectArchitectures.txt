@@ -1,0 +1,1 @@
+C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\ListasEnlazadasC++\ListasEnlazadasC++.Windows\ListasEnlazadasC++.Windows.vcxproj;x86

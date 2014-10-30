@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AJ-PC</Machine>
+    <WindowsUser>AJ</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>73a1ff81-83de-4268-86a0-b9e3abdad4ef</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\ListasEnlazadasC++\ListasEnlazadasC++.Windows\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>70622D6A42A30AF59BE790D8AEE8154E6B4BEA9ADCBFA772A7A118C3231B8FC4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>73a1ff81-83de-4268-86a0-b9e3abdad4ef_1.0.0.0_x86__h1vhfmbpcaddr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>73a1ff81-83de-4268-86a0-b9e3abdad4ef_h1vhfmbpcaddr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>73a1ff81-83de-4268-86a0-b9e3abdad4ef</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=AJ</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\Debug\ListasEnlazadasC++.Windows\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-28T22:30:40.226</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\Debug\ListasEnlazadasC++.Windows\ListasEnlazadasC++.Windows.exe">
+      <PackagePath>ListasEnlazadasC++.Windows.exe</PackagePath>
+      <Modified>2014-10-29T08:00:43.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\Debug\ListasEnlazadasC++.Windows\ListasEnlazadasC__.winmd">
+      <PackagePath>ListasEnlazadasC__.winmd</PackagePath>
+      <Modified>2014-10-28T15:26:51.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\ListasEnlazadasC++\ListasEnlazadasC++.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:19:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\ListasEnlazadasC++\ListasEnlazadasC++.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:19:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\ListasEnlazadasC++\ListasEnlazadasC++.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:19:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\ListasEnlazadasC++\ListasEnlazadasC++.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:19:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\Debug\ListasEnlazadasC++.Windows\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-28T15:26:52.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\Debug\ListasEnlazadasC++.Windows\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-28T16:21:56.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\AJ\documents\visual studio 2013\Projects\ListasEnlazadasC++\Debug\ListasEnlazadasC++.Windows\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-28T22:30:40.010</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
